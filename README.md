@@ -1,4 +1,5 @@
 # praktikum 3
-## code program luas dan keliling lingkaran
-#### dalam lingkaran ada yang dinamakan phi(φ) merupakan 1 satuan dalam lingkaran yang mmilikin nilai 22/7 atau 3,14 makabisa membuat code seperti ini
+## 3.1 Code program luas dan keliling lingkaran
+#### dalam lingkaran ada yang dinamakan phi(π) merupakan 1 satuan dalam lingkaran yang milikin nilai 22/7 atau 3,14, luas dan keliling lingkaran bisa dihitung mengunakan rumus K=2πr dan L=πrr maka dari itu kita bisa memasukan code seperti ini
 ![Gambar1](rumusK&L.png)
+#### 
