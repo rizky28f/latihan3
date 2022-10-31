@@ -7,4 +7,8 @@
 ![Gambar2](hasil.rumus.png)
 
 ## 3.2 latihan praktikum 3
-#### 3.2.1 penggunaan End Separator & string format
+### 3.2.1 penggunaan End Separator & string format
+secara berurut masukan input
+![Gambar](E,S,SF.png)
+output
+![Gambar](output E,S,SF.png)
