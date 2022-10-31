@@ -11,4 +11,4 @@
 secara berurut masukan input
 ![Gambar](E,S,SF.png)
 
-![Gambar](output E,S,SF.png)
+![Gambar](output.E,S,SF.png)
