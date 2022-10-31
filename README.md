@@ -10,6 +10,12 @@
 ### 3.2.1 penggunaan End Separator & string format
 #### secara berurut masukan input
 
-![Gambar](E,S,SF.png)
+![Gambar3](E,S,SF.png)
 #### menghasilkan output
 ![Gambar](output.E,S,SF.png)
+
+## 3.3 kode program string formating berbentuk belah ketupat
+#### contoh silakan masukan input sebagai berikut
+![Gambar4](input.ketupat.png)
+akan menghasilkan output seperti yang ada dibawah namun jika anda ingin membuat ukuran masukan code yang lebih banyak namun tetap teratur
+![Gambar5](output.ketupat.png)
