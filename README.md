@@ -1,4 +1,4 @@
-# praktikum 3
+# uas praktikum pemrograman web
 #### nama : rizky syahhendra fanani
 #### nim  : 25010020p
 
